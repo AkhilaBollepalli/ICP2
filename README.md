@@ -27,5 +27,4 @@ Solution:
 2. First, the heights are converted to inches with a loop. Second, heights are converted to inches through list comprehension.
 3. The resulting lists are printed to the console.
 
-Click here for Video Explanation : https://drive.google.com/file/d/1rc7fNxpshBx3EDcH2RGHuGWccRzBrFcx/view?usp=sharing
-
+Click here for Video Explanation :[ https://rb.gy/1yqk1q](url)
